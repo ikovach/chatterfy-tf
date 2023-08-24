@@ -3,7 +3,7 @@
 [![workflow](https://github.com/tbobm/tf-ecr-ecs-gh-deploy/actions/workflows/workflow.yml/badge.svg)](https://github.com/tbobm/tf-ecr-ecs-gh-deploy/actions/workflows/workflow.yml)
 
 Create the AWS infrastructure (ECS, ECR, ALB, ...) to deploy a container and
-automatically update it using Github Action.
+automatically update it using Github Action
 
 Example run is available [here][ci-success].
 
